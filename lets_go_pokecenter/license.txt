@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lets Go! Pokecenter
+* source:	https://sketchfab.com/3d-models/lets-go-pokecenter-3aa8179745194791a166cfe594dcf896
+* author:	pbrady5 (https://sketchfab.com/pbrady5)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lets Go! Pokecenter" (https://sketchfab.com/3d-models/lets-go-pokecenter-3aa8179745194791a166cfe594dcf896) by pbrady5 (https://sketchfab.com/pbrady5) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
